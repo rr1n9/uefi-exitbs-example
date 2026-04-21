@@ -1,8 +1,7 @@
 ## ExitBootServices example
 ## Tested on IdeaPad 82C7 (Tested also in QEMU)
 
-Disclaimer: The precompiled `compiled.efi` is provided for convenience.
-Review the source code before running.
+`Review the source code before running.`
 
 A minimal x86_64 EFI application that demonstrates how to correctly terminate UEFI Boot Services and transition to a "bare-metal" state.
 
